@@ -59,7 +59,7 @@ main section .personaje {
 }
 main section #text1 {
   position: absolute;
-  top:0;
+  top:10%;
   color: #fff;
   font-size: 10vw;
   text-transform: uppercase;
